@@ -1,4 +1,16 @@
-# BaliKamus
-This project was made for my scientific research assignment as a student at Gunadarma University. I made an Android app that can translate Balinese to English and vice versa with OCR. The app was made with Flutter and the words database was made with SQLite.
+# pi_project
 
-The SQL database has been omitted for confidentiality reasons.
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
